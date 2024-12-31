@@ -24,7 +24,7 @@
 <h3>Hobbies & Interests</h3>
 <ul>
   <li>🎹 <strong>Piano:</strong> I always enjoy playing the piano.</li>
-  <li>🛹 <strong>Skateboarding:</strong> I love skateboarding.</li>
+  <li>🛹 <strong>Skateboarding:</strong> I skateboard professionally and compete in competitions.</li>
   <li>🥋 <strong>Martial Arts:</strong> In my free time, I love doing Muay Thai, Brazilian Jiu-Jitsu, and Boxing.</li>
   <li>📚 <strong>Reading:</strong> Always learning something new about blockchain and tech innovations.</li>
   <li>🎮 <strong>Gaming:</strong> Enjoy playing strategy and simulation games.</li>
