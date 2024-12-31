@@ -72,11 +72,9 @@
 ### Employer?
 
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
-
+> <a href="https://github.com/user-attachments/files/18282327/Samuel.Glauser.CV.auf.Deutsch.-.Copy.pdf" download>Download my resume</a>
 
 ###
-
 <img 
   width="100%" 
   src="https://capsule-render.vercel.app/api?type=waving&height=100&color=color=0:FF5733,50:33FF57,100:3357FF&fontColor=ffffff&strokeWidth=0&animation=scaleIn&section=footer" 
