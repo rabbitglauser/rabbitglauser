@@ -53,3 +53,14 @@
 </div>
 
 ###
+### Employer?
+> [!IMPORTANT]  
+> <a href=["https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing](https://github.com/user-attachments/files/18281907/Samuel.Glauser.CV.7.pdf)" download>Download my resume</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+
+
+<!--
+     Thanks for being my guest <3
+-->
+
