@@ -1,44 +1,57 @@
-<p align="left"> ### Hey there it's Samuel ! 👋<br>Welcome to my GitHub profile! I'm happy you're here. Here's a little about me:<br><br>About Me<br><br>🎓 Student: I'm currently studying computer science at GIBZ.<br>💼 Apprentice at Bitcoin Suisse.<br>🐍 Python Enthusiast.<br>🌐 Crypto Enthusiast: Passionate about blockchain technology and its potential to transform industries.<br>📍 Location: Zug<br><br>Current Projects<br><br>🔗 Crypto NFT: Creating an NFT and putting it on the blockchain.<br>🔍 Always interested in learning new technologies and meeting people.<br>🌱 Learning: Smart contract development with Solidity and exploring DeFi platforms.<br><br>Hobbies & Interests<br><br>🎹 Piano: I always enjoy playing the piano.<br>🛹 Skateboarding: I love skateboarding.<br>🥋 Martial Arts: In my free time, I love doing Muay Thai, Brazilian Jiu-Jitsu, and Boxing.<br>📚 Reading: Always learning something new about blockchain and tech innovations.<br>🎮 Gaming: Enjoy playing strategy and simulation games.<br><br>Languages<br><br>💂English<br>🥐French<br>🥨German B1<br>Swiss French <br>Swiss German<br><br>Skills:</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=color=0:FF5733,50:33FF57,100:3357FF&text=Welcome%20to%20my%20Github&fontColor=ffffff&strokeWidth=0&animation=scaleIn&section=header&reversal=false" alt="header"/>
 
-###
+<p align="left">
+  <strong>Hey there, it's Samuel! 👋</strong><br>
+  Welcome to my GitHub profile! I'm happy you're here. Here's a little about me:
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+<h3>About Me</h3>
+<ul>
+  <li>🎓 <strong>Student:</strong> I'm currently studying computer science at GIBZ.</li>
+  <li>💼 <strong>Apprentice:</strong> Working at Bitcoin Suisse.</li>
+  <li>🐍 <strong>Python Enthusiast</strong></li>
+  <li>🌐 <strong>Crypto Enthusiast:</strong> Passionate about blockchain technology and its potential to transform industries.</li>
+  <li>📍 <strong>Location:</strong> Zug</li>
+</ul>
 
-###
+<h3>Current Projects</h3>
+<ul>
+  <li>🔗 <strong>Crypto NFT:</strong> Creating an NFT and putting it on the blockchain.</li>
+  <li>🔍 Always interested in learning new technologies and meeting people.</li>
+  <li>🌱 <strong>Learning:</strong> Smart contract development with Solidity and exploring DeFi platforms.</li>
+</ul>
+
+<h3>Hobbies & Interests</h3>
+<ul>
+  <li>🎹 <strong>Piano:</strong> I always enjoy playing the piano.</li>
+  <li>🛹 <strong>Skateboarding:</strong> I love skateboarding.</li>
+  <li>🥋 <strong>Martial Arts:</strong> In my free time, I love doing Muay Thai, Brazilian Jiu-Jitsu, and Boxing.</li>
+  <li>📚 <strong>Reading:</strong> Always learning something new about blockchain and tech innovations.</li>
+  <li>🎮 <strong>Gaming:</strong> Enjoy playing strategy and simulation games.</li>
+</ul>
+
+<h3>Languages</h3>
+<ul>
+  <li>💂 English</li>
+  <li>🥐 French</li>
+  <li>🥨 German B1</li>
+  <li>Swiss French</li>
+  <li>Swiss German</li>
+</ul>
+
+<h3>Skills:</h3>
+
+
+### Main Skills
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,js,python,solidity,nodejs,react,express,jest,jenkins,cs,dotnet,html,css,bootstrap,blender,docker,pycharm,vscode,aws,tensorflow,scipy,matplotlib)](https://skillicons.dev)
+
+### Studying
+[![Learning](https://skillicons.dev/icons?i=kubernetes,kafka,)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/rabbitglauser/rabbitglauser/output/snake.svg" alt="Snake animation" />
 
-###
+
+### Connect with me!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/samuel-glauser/" target="_blank">
@@ -50,17 +63,22 @@
   <a href="https://discord.com/channels/1128759552851066922/1128759554285506653" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
+  <a href="https://stackoverflow.com/users/16455043/samuel-glauser" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="52" height="40" alt="Stack Overflow logo" />
+  </a>
 </div>
 
-###
+
 ### Employer?
+
 > [!IMPORTANT]  
-> <a href=["https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing](https://github.com/user-attachments/files/18281907/Samuel.Glauser.CV.7.pdf)" download>Download my resume</a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
 
 
-<!--
-     Thanks for being my guest <3
--->
+###
 
+<img 
+  width="100%" 
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=color=0:FF5733,50:33FF57,100:3357FF&fontColor=ffffff&strokeWidth=0&animation=scaleIn&section=footer" 
+  alt="footer"
+/>
