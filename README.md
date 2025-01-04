@@ -65,7 +65,10 @@
   </a>
   <a href="https://stackoverflow.com/users/16455043/samuel-glauser" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="52" height="40" alt="Stack Overflow logo" />
-  </a>
+<a href="https://www.meetup.com/members/382435796/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/361f0981-3ba8-4e56-8114-d4ba0f72c799" width="40" height="40" alt="Meetup logo" />
+</a>
+
 </div>
 
 
