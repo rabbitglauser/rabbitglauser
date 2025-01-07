@@ -68,7 +68,9 @@
 <a href="https://www.meetup.com/members/382435796/" target="_blank">
   <img src="https://github.com/user-attachments/assets/361f0981-3ba8-4e56-8114-d4ba0f72c799" width="40" height="40" alt="Meetup logo" />
 </a>
-
+<a href="https://leetcode.com/u/samuel_rabbit/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/307e08a5-4d3b-41d3-9daa-89c84c3bbd26" width="40" height="40" alt="LeetCode logo" />
+</a>
 </div>
 
 
