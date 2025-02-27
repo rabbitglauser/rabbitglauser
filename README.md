@@ -43,7 +43,7 @@
 
 
 ### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,gitlab,git,mongodb,mysql,js,python,solidity,nodejs,react,express,jest,jenkins,cs,dotnet,html,css,bootstrap,blender,docker,pycharm,vscode,aws,tensorflow,scipy,matplotlib)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,regex,github,gitlab,git,mongodb,mysql,js,solidity,nodejs,react,express,jest,jenkins,cs,dotnet,html,css,bootstrap,docker,pycharm,vscode,aws,tensorflow,scipy,matplotlib)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=kubernetes,kafka,rust,C#)](https://skillicons.dev)
