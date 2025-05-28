@@ -82,6 +82,6 @@
 ###
 <img 
   width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=color=0:FF5733,50:33FF57,100:3357FF&fontColor=ffffff&strokeWidth=0&animation=scaleIn&section=footer" 
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:3357FF,50:33FF57,100:33FF57&fontColor=ffffff&strokeWidth=0&animation=scaleIn&section=footer" 
   alt="footer"
 />
