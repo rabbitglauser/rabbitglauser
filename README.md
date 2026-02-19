@@ -77,8 +77,9 @@
 ### Employer?
 
 > [!IMPORTANT]  
-> <a href="[LebenslaufSamuelGlauser.pdf]()
+> <a href="[https://github.com/user-attachments/files/25425596/LebenslaufSamuelGlauser.pdf]()
 " download>Download my resume</a>
+
 
 ###
 <img 
