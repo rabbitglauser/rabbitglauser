@@ -14,6 +14,21 @@
   <li>📍 <strong>Location:</strong> Zug</li>
 </ul>
 
+
+## Work Experience
+
+<img src="png/workExperience.png" alt="Work Experience">
+
+## Work Experience
+
+- **Roelle Boutique** — 2020–Present  
+  Marketing Manager & Specialist
+
+- **Fauget Studio** — 2025–2029  
+  Marketing Manager & Specialist
+
+- **Studio Showde** — 2024–2025  
+  Marketing Manager & Specialist
 <h3>Current Projects</h3>
 <ul>
   <li>🔗 <strong>Crypto NFT:</strong> Creating an NFT and putting it on the blockchain.</li>
