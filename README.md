@@ -17,7 +17,7 @@
 
 ## Work Experience
 
-<img src="png/workExperience.png" alt="Work Experience">
+<img src="png/WorkExperience.png" alt="Work Experience">
 
 ## Work Experience
 
