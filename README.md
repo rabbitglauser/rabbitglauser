@@ -45,12 +45,17 @@
   <li>📍 <strong>Location:</strong> Zug</li>
 </ul>
 
-<h3>Current Projects</h3>
-- 🎵 **[Spotyfinder](https://github.com/rabbitglauser/Spotyfinder)** - playlist recommendations based off of your Spotify playlists or tracks
-- 🕹️ **[PySnake](https://github.com/rabbitglauser/PySnake)** - simple frute snake game made with python!
-- 🧝 **[Voidlands](https://github.com/rabbitglauser/Voidlands-Godot-Game)** - creating my first serious game on godot
+### Current Projects
+
+- 🎵 **[Spotyfinder](https://github.com/rabbitglauser/Spotyfinder)** - Playlist recommendations based on your Spotify playlists or tracks
+- 🕹️ **[PySnake](https://github.com/rabbitglauser/PySnake)** - Simple fruit snake game made with Python
+- 🧝 **[Voidlands](https://github.com/rabbitglauser/Voidlands-Godot-Game)** - Creating my first serious game in Godot
 - 🍕 **[PizzaWebsite](https://github.com/rabbitglauser/GIBZ-M231-Pizza-Website)** - Pizza website for school using HTML, CSS, and JS
-- 🎮 **[GuessingGame](https://github.com/rabbitglauser/guessing_game)** - Creating my first ever REST server guessing game using Python!
+- 🎮 **[GuessingGame](https://github.com/rabbitglauser/guessing_game)** - My first REST server guessing game using Python
+
+### Achievements
+
+- 🏆 **1st Place Baden Hackathon Winner**
 
 <h3>Hobbies & Interests</h3>
 <ul>
