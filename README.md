@@ -77,8 +77,6 @@
 
 <h3>Skills:</h3>
 
-
-### Main Skills
 [![My Skills](https://skillicons.dev/icons?i=python,regex,github,gitlab,git,mongodb,mysql,js,solidity,nodejs,react,express,jest,jenkins,cs,dotnet,html,css,bootstrap,docker,pycharm,vscode,aws,tensorflow,scipy,matplotlib)](https://skillicons.dev)
 
 ### Studying
